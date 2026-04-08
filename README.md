@@ -12,7 +12,7 @@ Can remote sensing and weather signals from Brazilian coffee regions help predic
 
 ## Study area
 
-Initial focus: coffee-producing regions in Minas Gerais, Brazil.
+Initial focus: coffee-producing regions in Minas Gerais, Brazil, with a case study in the southern Minas Gerais area (e.g., Três Pontas).
 
 ## Data sources
 

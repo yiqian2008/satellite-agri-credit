@@ -4,7 +4,7 @@ Using satellite and climate data to estimate future agricultural cash flow and c
 
 ## Project motivation
 
-Agricultural lending is difficult because lenders often cannot directly observe crop conditions, expected yield, or future revenue. This project explores whether satellite imagery and climate data can be used to construct a forward-looking agricultural credit risk indicator.
+Traditional agricultural lending faces significant challenges due to limited visibility into crop conditions, expected yield, and future farm revenue. This project explores whether satellite imagery and climate data can be used to construct a forward looking agricultural credit risk indicator.
 
 ## Research question
 
